@@ -1,0 +1,1 @@
+To start go to mines and run the program
